@@ -4,7 +4,7 @@
 const country = 'Bangladesh';
 const division = "Noakhali";
 const district = `Khulna`;
-const thana = new String('Uzirpur'); //এটা একটা string but object এর মতো আচরণ করে।
+const thana = new String('Uzirpur'); //এটা একটা string but object এর মতো আচরণ করে।  using special case.
 
 // console.log(typeof thana); //object
 // console.log(thana) // [String: 'Uzirpur']
